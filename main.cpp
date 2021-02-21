@@ -1,6 +1,7 @@
 #include "mainwindow.h"
-
+#include <Windows.h>
 #include <QApplication>
+#include "track.h"
 
 int main(int argc, char *argv[])
 {
