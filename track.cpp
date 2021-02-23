@@ -2,8 +2,8 @@
 
 track::track()
 {
-    title = "";
-    artist = "";
-    album = "";
+    Title = "";
+    Artist = "";
+    Album = "";
     fName = "";
 }
